@@ -1,5 +1,7 @@
 # flutter_payment_apps
 
+![Artboard 1](https://user-images.githubusercontent.com/50306963/122432636-b0fce900-cfbf-11eb-990c-35dcae9d0d49.png)
+
 A new Flutter project.
 
 ## Getting Started
